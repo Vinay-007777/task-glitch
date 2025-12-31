@@ -6,7 +6,4 @@ dist
 /.vite
 /.idea
 /.vscode
-
-
-# Typescript build info
 *.tsbuildinfo
